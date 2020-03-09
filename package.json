@@ -13,7 +13,16 @@
     "type": "git",
     "url": "git+https://github.com/ArtechChu/hexo-generator-sitemap-sogou.git"
   },
-  "keywords": [],
+  "keywords": [
+	"sitemap",
+    "seo",
+    "hexo",
+    "seo",
+    "sogou",
+    "sitemap",
+    "generate",
+    "generator"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
